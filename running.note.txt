@@ -9,3 +9,12 @@ To Load projecct into Git Local Repository.
 - it will show all the files in folder with 'U' which is untracked files
 - to add this files to source control we need to commit them
 - Commit this changes by clicking the "✓" symbol and add a messsage on the changes you made.
+- Once Inital commit is sucessful you will not see anything in the SCM tab
+
+Modifying an existing files
+- On changes any file from the project and saving, git will tract it, it will appear in SCM tab
+- 'M' besides file in the SCM tab stands for modified
+- You can stage this changes or undo this changes.
+- Stage will let the file changes go into the next commit
+- Undo will discard the changes
+- You can see the changes made to a file by double clicking the file in SCM tab.
