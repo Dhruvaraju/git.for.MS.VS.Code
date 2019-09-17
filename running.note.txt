@@ -1,0 +1,11 @@
+Command to check git version installed is 'git --version'
+
+Configuring email and name on first log in to git
+- git config --global user.email "Your Email Id"
+- git config --global user.name "Your Name"
+
+To Load projecct into Git Local Repository.
+- Goto SCM (Source Control) icon and click on '+' symbol or initalize Repository
+- it will show all the files in folder with 'U' which is untracked files
+- to add this files to source control we need to commit them
+- Commit this changes by clicking the "✓" symbol and add a messsage on the changes you made.
