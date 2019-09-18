@@ -27,5 +27,5 @@ Adding a remote repository for the same project and pushing code to it
 - For adding an existing local repository to remote repository follow the below commands.
     - git remote add origin <<your repository link>>
     - git push -u origin master 
-    example: https://github.com/Dhruvaraju/git.for.MS.VS.Code.git
+    example: git remote add origin https://github.com/Dhruvaraju/git.for.MS.VS.Code.git
     git push -u origin master
