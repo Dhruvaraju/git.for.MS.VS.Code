@@ -17,4 +17,15 @@ Modifying an existing files
 - You can stage this changes or undo this changes.
 - Stage will let the file changes go into the next commit
 - Undo will discard the changes
-- You can see the changes made to a file by double clicking the file in SCM tab.
+- You can see the changes made to a file by double clicking the file in SCM tab. (Opens the comparision tab)
+
+Undo the last commit if you accidentally commit something
+- Switch to SCM tab, Click on the more options (three dots), choose undo last commit.
+
+Adding a remote repository for the same project and pushing code to it
+- Goto Github.com and login create a new repository
+- For adding an existing local repository to remote repository follow the below commands.
+    - git remote add origin <<your repository link>>
+    - git push -u origin master 
+    example: https://github.com/Dhruvaraju/git.for.MS.VS.Code.git
+    git push -u origin master
