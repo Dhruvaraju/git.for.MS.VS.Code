@@ -30,5 +30,13 @@ Adding a remote repository for the same project and pushing code to it
     example: git remote add origin https://github.com/Dhruvaraju/git.for.MS.VS.Code.git
     git push -u origin master
 
-Sometimes already existing repo cannot be merged with a local repository
+Sometimes already existing repo cannot be merged with a local repository then use below
 - git pull --allow-unrelated-histories <<repository url>>
+
+Updating local changes with remote repository
+- Once you comple your changes in file save file commit the same
+- goto SCM tab >> additional options '...' >> push this will publish your changes to remote repository
+- you can all click the '🗘' synchronize changes in the status bar after code commit.
+- while code sync is happening we will see a small clock icon on in the SCM tab icon
+
+For more descriptions on symbols as text search for unicode symbols
