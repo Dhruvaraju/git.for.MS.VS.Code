@@ -29,3 +29,6 @@ Adding a remote repository for the same project and pushing code to it
     - git push -u origin master 
     example: git remote add origin https://github.com/Dhruvaraju/git.for.MS.VS.Code.git
     git push -u origin master
+
+Sometimes already existing repo cannot be merged with a local repository
+- git pull --allow-unrelated-histories <<repository url>>
