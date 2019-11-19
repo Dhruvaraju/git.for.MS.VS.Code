@@ -15,7 +15,7 @@ Git integration with Microsoft Visual code.
 - Navigate to the folder location
 - Run the command ``` git init ``` to add a folder to version control.
 
-### Below spets are performed using Microsoft Visual Code
+### Below steps are performed using Microsoft Visual Code
 - Open the folder on MS code and follow the below steps.
 
 ### To Load project into Git Local Repository.
